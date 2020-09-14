@@ -1,0 +1,4 @@
+E:\c++\snake\Project2\Debug\Project2.exe
+E:\c++\snake\Project2\Debug\Project2.pdb
+C:\Users\Administrator\Desktop\c++project\eat_snake\Project2\Debug\eat_snake.exe
+C:\Users\Administrator\Desktop\c++project\eat_snake\Project2\Debug\eat_snake.pdb
